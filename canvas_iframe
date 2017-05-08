@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+<title>Canvas Javascript</title>
+</head>
+<body>
+<script type="text/javascript">
+alert("this is a test");
+console.log("This is a test");
+</script>
+</body>
+</html>
